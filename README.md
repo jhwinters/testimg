@@ -1,4 +1,4 @@
-# README
+# Xronos Scheduler
 
 <img align="right" src="/images/smallscreenshot.png" />
 
