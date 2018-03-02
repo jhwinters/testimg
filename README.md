@@ -1,4 +1,4 @@
-== README
+# README
 
 Just _want_ to test embedding an image in my rdoc
 
