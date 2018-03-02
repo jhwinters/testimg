@@ -18,6 +18,13 @@ This is really important in a school - everything which is happening makes
 use of the same scarce resources (people, places, things) and the
 commitments need to be held in a single place.
 
+Users (staff, pupils and the general public) see information tailored
+to their particular requirements.  The general public can see only things
+flagged as being for public consumption; staff and pupils can see their
+own commitments (timetable + everything else) and suitably authorized
+users (under the control of the system administrator) can choose what
+they see.
+
 The data held within Scheduler can be fed out to external calendaring
 programs, and to hand-held devices.  It updates automatically from
 the school's MIS, and provides automated notification of clashes
