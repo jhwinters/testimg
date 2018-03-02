@@ -1,6 +1,6 @@
 # Xronos Scheduler
 
-<img align="right" src="/images/smallscreenshot.png" />
+<img align="right" src="images/smallscreenshot.png" />
 
 Xronos Scheduler is a calendaring application intended primarily
 for schools, but potentially useful for other organisations.
@@ -30,7 +30,7 @@ programs, and to hand-held devices.  It updates automatically from
 the school's MIS, and provides automated notification of clashes
 where events are arriving from different sources.
 
-For a general introduction, see [the user manual](https://xronos.uk/)
+For a general introduction, see [the User Guide](https://xronos.uk/)
 and the [live demonstration site](https://schedulerdemo.xronos.uk/).
 
 [Installation instructions](https://xronos.uk/install/) are also available.
