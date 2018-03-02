@@ -10,6 +10,14 @@ but also everything else which is happening within the school, enabling
 easy retrieval of a tailored schedule for any individual member of staff,
 pupil, location, service, activity etc. within the school.
 
+What sets it apart from the vast majority of calendar programs (Google
+Calendar and the like) is that the information which it holds is _structured_.
+Rather than having hundreds of separate calendars, it holds just the one
+calendar, but then allows potentially thousands of different views on it.
+This is really important in a school - everything which is happening makes
+use of the same scarce resources (people, places, things) and the
+commitments need to be held in a single place.
+
 The data held within Scheduler can be fed out to external calendaring
 programs, and to hand-held devices.  It updates automatically from
 the school's MIS, and provides automated notification of clashes
